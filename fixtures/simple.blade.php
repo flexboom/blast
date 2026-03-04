@@ -1,0 +1,4 @@
+@csrf
+
+@include@yield
+@guest
